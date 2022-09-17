@@ -24,7 +24,9 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: Container(),
+      home: Container(
+        child: const Text('master brach testing with vscode'),
+      ),
     );
   }
 }
