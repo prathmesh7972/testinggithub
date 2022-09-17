@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       home: Container(
-        child: const Text('master brach testing with vscode'),
+        child: const Text('with new branch by commandtesting with vscode'),
       ),
     );
   }
